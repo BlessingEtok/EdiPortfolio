@@ -1,0 +1,19 @@
+.rcard {
+    background-color: darkblue;
+    color: #fff;
+    padding: 20px;
+    border-style: dotted;
+    margin: 30px;
+    border-radius: 100px;
+}
+
+.ccard {
+    background-color: darkorchid;
+    color: #fff;
+    padding: 20px;
+    border-style: dotted;
+    margin: 30px;
+    border-radius: 100%;
+    width: 400px;
+    height: 400px;
+}
